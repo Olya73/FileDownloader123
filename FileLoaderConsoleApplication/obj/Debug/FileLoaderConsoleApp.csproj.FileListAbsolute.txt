@@ -5,13 +5,3 @@ C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.c
 C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.exe
 C:\Users\User\source\repos\FileLoaderConsoleApp\obj\Debug\FileLoaderConsoleApp.pdb
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\bin\Debug\FileLoaderConsoleApp.exe.config
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\bin\Debug\FileLoaderConsoleApp.exe
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\bin\Debug\FileLoaderConsoleApp.pdb
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\bin\Debug\ClassLibrary3.dll
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\bin\Debug\ClassLibrary3.pdb
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\obj\Debug\FileLoaderConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\obj\Debug\FileLoaderConsoleApp.csproj.CopyComplete
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\obj\Debug\FileLoaderConsoleApp.exe
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\obj\Debug\FileLoaderConsoleApp.pdb
-C:\Users\User\source\repos\WPFDownloader\FileLoaderConsoleApplication\obj\Debug\FileLoaderConsoleApp.csprojAssemblyReference.cache
